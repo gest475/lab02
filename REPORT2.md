@@ -19,7 +19,7 @@ git add README.md
 git commit -m "Initial commit"
 git push -u origin main
 
-# Добавление hello_world.cpp (плохой стиль)
+# Добавление hello_world.cpp 
 cat > hello_world.cpp <<EOF
 #include <iostream>
 using namespace std;
